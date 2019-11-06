@@ -1,0 +1,7 @@
+[package]
+name = "tyokin"
+version = "0.1.0"
+authors = ["k15024 <k15024kk@aitech.ac.jp>"]
+edition = "2018"
+
+[dependencies]
